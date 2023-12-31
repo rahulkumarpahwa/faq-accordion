@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  background-color: #f9eeff;
+  background-image: url("./assets/images/background-pattern-desktop.svg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Work Sans", sans-serif;
+}
+
+.card {
+  background-color: #fff;
+  width: 480px;
+  border-radius: 20px;
+  padding: 15px;
+  box-shadow: 1px 1px 4.5px #2f1533;
+}
+
+.cardHead {
+  display: flex;
+}
+
+.heading {
+  color: #2f1533;
+  font-size: 2rem;
+  font-weight: 900;
+}
+
+.cardHead img {
+  margin-right: 20px;
+}
+
+.qdiv {
+  display: flex;
+  justify-content: space-between;
+  color: hsl(292, 42%, 14%);
+  font-weight: 600;
+}
+
+.qdiv:hover {
+  color: #ad28eb;
+  cursor: pointer;
+}
+
+.hide {
+  display: none;
+}
+
+.ansDiv {
+  font-size: 15px;
+  margin-bottom: 15px;
+  color: hsl(292, 16%, 49%);
+}
+
+.faqDiv {
+  margin: 10px 5px 10px 5px;
+  border-bottom: 1px solid hsl(275, 100%, 97%);
+}
