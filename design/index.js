@@ -2,15 +2,15 @@ let btns = document.querySelectorAll(".btn");
 let ansDivs = document.querySelectorAll(".ansDiv");
 let iconPlus = document.querySelectorAll(".icon-plus");
 
-function click (index){
-ansDivs[index].classList.toggle("hide");
-if (isClicked) {
-  iconPlus[index].src = "./assets/images/icon-minus.svg";
-} else {
-  iconPlus[index].src = "./assets/images/icon-plus.svg";
-}
-isClicked = !isClicked;
-}
+// function click (index){
+// ansDivs[index].classList.toggle("hide");
+// if (isClicked) {
+//   iconPlus[index].src = "./assets/images/icon-minus.svg";
+// } else {
+//   iconPlus[index].src = "./assets/images/icon-plus.svg";
+// }
+// isClicked = !isClicked;
+// }
 
 
 {
