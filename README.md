@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://your-live-site-url.com](https://faq-accordion-peach-two.vercel.app/)
 
 ## My process
 
